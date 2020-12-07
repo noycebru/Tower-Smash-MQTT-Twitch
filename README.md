@@ -1,2 +1,2 @@
-# Tower-Smasher-MQTT-Twitch
+# Tower-Smash-MQTT-Twitch
 Code under dev
